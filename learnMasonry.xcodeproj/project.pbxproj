@@ -406,13 +406,16 @@
 				TargetAttributes = {
 					69382C731C083A5600F545E8 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 2NLQQBXFFT;
 					};
 					69382C8C1C083A5600F545E8 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 2NLQQBXFFT;
 						TestTargetID = 69382C731C083A5600F545E8;
 					};
 					69382C971C083A5600F545E8 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 2NLQQBXFFT;
 						TestTargetID = 69382C731C083A5600F545E8;
 					};
 				};
@@ -685,10 +688,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2NLQQBXFFT;
 				INFOPLIST_FILE = learnMasonry/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonry;
+				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonry66;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -697,10 +701,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2NLQQBXFFT;
 				INFOPLIST_FILE = learnMasonry/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonry;
+				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonry66;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -709,6 +714,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 2NLQQBXFFT;
 				INFOPLIST_FILE = learnMasonryTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonryTests;
@@ -721,6 +727,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = 2NLQQBXFFT;
 				INFOPLIST_FILE = learnMasonryTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonryTests;
@@ -732,6 +739,7 @@
 		69382CA81C083A5600F545E8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 2NLQQBXFFT;
 				INFOPLIST_FILE = learnMasonryUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonryUITests;
@@ -744,6 +752,7 @@
 		69382CA91C083A5600F545E8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 2NLQQBXFFT;
 				INFOPLIST_FILE = learnMasonryUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonryUITests;
