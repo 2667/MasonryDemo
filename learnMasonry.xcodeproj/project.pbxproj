@@ -406,6 +406,7 @@
 				TargetAttributes = {
 					69382C731C083A5600F545E8 = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = KPZB7A4HR4;
 					};
 					69382C8C1C083A5600F545E8 = {
 						CreatedOnToolsVersion = 7.1;
@@ -685,8 +686,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				INFOPLIST_FILE = learnMasonry/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonry;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -697,8 +699,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				INFOPLIST_FILE = learnMasonry/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.huangyibiao.learnMasonry;
 				PRODUCT_NAME = "$(TARGET_NAME)";
