@@ -41,7 +41,7 @@
   // 这里，我们不使用updateViewConstraints方法，但是我们一样可以做到。
   // 不过苹果推荐在updateViewConstraints方法中更新或者添加约束的
   [self updateWithExpand:NO animated:NO];
-  
+//    [self.view updateConstraints];
   UILabel *label = [[UILabel alloc] init];
   label.numberOfLines = 0;
   label.textColor = [UIColor redColor];
